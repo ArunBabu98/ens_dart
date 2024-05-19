@@ -1,5 +1,5 @@
 import 'package:dotenv/dotenv.dart' as env;
-import 'package:flutter_test/flutter_test.dart';
+import 'package:test/test.dart';
 
 import 'package:ens_dart/ens_dart.dart';
 import 'package:http/http.dart';
